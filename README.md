@@ -1,15 +1,15 @@
-# Google Maps API Project with Markers 
+## Google Maps API Project with Markers 
 
 > This app uses Google Maps API to create markers for the user's and company locations. Locations are products of the faker library and are randomly generated on every page load. You can invoke popup windows with some user/company information by clicking on the map markers.
 
-## The goals of creating this application:
+### The goals of creating this application:
 
 The main goals for me as a web developer were to improve my skills in working with:
 
 - TypeScript (mostly classes and interfaces)
 - JavaScript
 
-## To open the app on your machine, follow these steps:
+### To open the app on your machine, follow these steps:
 
 Step 1
 
